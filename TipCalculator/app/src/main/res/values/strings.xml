@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="amount_TextView">amountTextView</string>
+</resources>
